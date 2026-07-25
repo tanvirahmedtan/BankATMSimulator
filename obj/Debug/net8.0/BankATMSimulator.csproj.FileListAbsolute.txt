@@ -1,0 +1,16 @@
+W:\BankATMSimulator\BankATMSimulator\bin\Debug\net8.0\Data\accounts.json
+W:\BankATMSimulator\BankATMSimulator\bin\Debug\net8.0\BankATMSimulator.exe
+W:\BankATMSimulator\BankATMSimulator\bin\Debug\net8.0\BankATMSimulator.deps.json
+W:\BankATMSimulator\BankATMSimulator\bin\Debug\net8.0\BankATMSimulator.runtimeconfig.json
+W:\BankATMSimulator\BankATMSimulator\bin\Debug\net8.0\BankATMSimulator.dll
+W:\BankATMSimulator\BankATMSimulator\bin\Debug\net8.0\BankATMSimulator.pdb
+W:\BankATMSimulator\BankATMSimulator\obj\Debug\net8.0\BankATMSimulator.GeneratedMSBuildEditorConfig.editorconfig
+W:\BankATMSimulator\BankATMSimulator\obj\Debug\net8.0\BankATMSimulator.AssemblyInfoInputs.cache
+W:\BankATMSimulator\BankATMSimulator\obj\Debug\net8.0\BankATMSimulator.AssemblyInfo.cs
+W:\BankATMSimulator\BankATMSimulator\obj\Debug\net8.0\BankATMSimulator.csproj.CoreCompileInputs.cache
+W:\BankATMSimulator\BankATMSimulator\obj\Debug\net8.0\BankATMSimulator.dll
+W:\BankATMSimulator\BankATMSimulator\obj\Debug\net8.0\refint\BankATMSimulator.dll
+W:\BankATMSimulator\BankATMSimulator\obj\Debug\net8.0\BankATMSimulator.pdb
+W:\BankATMSimulator\BankATMSimulator\obj\Debug\net8.0\BankATMSimulator.genruntimeconfig.cache
+W:\BankATMSimulator\BankATMSimulator\obj\Debug\net8.0\ref\BankATMSimulator.dll
+W:\BankATMSimulator\BankATMSimulator\obj\Debug\net8.0\BankATMSimulator.sourcelink.json

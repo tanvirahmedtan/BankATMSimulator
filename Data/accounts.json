@@ -1,0 +1,34 @@
+[
+  {
+    "AccountNumber": "BD63394954",
+    "HolderName": "Tanvir Ahmed",
+    "PinHash": "8266498D969081C29737B8DAEB5B51D60E56D008FFF243A39D16C3032D42F6CF",
+    "Balance": 99993500,
+    "Transactions": [
+      {
+        "Date": "2026-07-26T00:20:41.0594242+06:00",
+        "Type": "Opening Deposit",
+        "Amount": 500,
+        "BalanceAfter": 500,
+        "Note": "Account opened"
+      },
+      {
+        "Date": "2026-07-26T00:25:10.1187071+06:00",
+        "Type": "Deposit",
+        "Amount": 100000000,
+        "BalanceAfter": 100000500,
+        "Note": ""
+      },
+      {
+        "Date": "2026-07-26T00:25:24.5990661+06:00",
+        "Type": "Withdraw",
+        "Amount": 7000,
+        "BalanceAfter": 99993500,
+        "Note": ""
+      }
+    ],
+    "IsLocked": false,
+    "FailedPinAttempts": 0,
+    "CreatedAt": "2026-07-26T00:20:41.0443499+06:00"
+  }
+]
